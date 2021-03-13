@@ -1,0 +1,13 @@
+1. SVM dataset for Gender classification
+	link: github.com/Gender-Detection-From-Facial-Features-master
+	structre: 	models/dataset/colored/jpg1
+				models/dataset/bw/jpg1
+				models/gender/*.pkl
+2. Facenet for face recognition
+	link: github.com/gad
+	structure:	opencv_face_detector.pbtxt
+				opencv_face_detector_uint8.pb
+3. Agenet for age classification
+	link: github.com/gad
+	structure: 	age_deploy.prototxt
+				age_net.caffemodel
